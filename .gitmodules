@@ -1,9 +1,12 @@
 [submodule "client"]
 	path = client
-	url = https://github.com/randyL78/blog_client.git
+	url = git@github.com:randyL78/blog_client.git
 [submodule "comments"]
 	path = comments
-	url = https://github.com/randyL78/javaee_comments.git
+	url = git@github.com:randyL78/javaee_comments.git
 [submodule "posts"]
 	path = posts
-	url = https://github.com/randyL78/javaee_posts.git
+	url = git@github.com:randyL78/javaee_posts.git
+[submodule "event_bus_js"]
+	path = event_bus_js
+	url = git@github.com:randyL78/event_bus_js.git
