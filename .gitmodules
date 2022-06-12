@@ -10,3 +10,6 @@
 [submodule "event_bus_js"]
 	path = event_bus_js
 	url = git@github.com:randyL78/event_bus_js.git
+[submodule "QueryServiceJakarta"]
+	path = QueryServiceJakarta
+	url = git@github.com:randyL78/QueryServiceJakarta.git
